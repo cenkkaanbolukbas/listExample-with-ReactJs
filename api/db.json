@@ -1,0 +1,255 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 2,
+      "productName": "Cenk",
+      "quantityPerUnit": "48-6 oz jars",
+      "unitPrice": "23",
+      "unitInStock": 53
+    },
+    {
+      "id": 2,
+      "categoryId": 4,
+      "productName": "Kaan",
+      "quantityPerUnit": "48-6 oz jars",
+      "unitPrice": "23",
+      "unitInStock": 53
+    },
+    {
+      "id": 3,
+      "categoryId": 3,
+      "productName": "Osman",
+      "quantityPerUnit": "48-6 oz jars",
+      "unitPrice": "23",
+      "unitInStock": 53
+    },
+    {
+      "id": 4,
+      "categoryId": 5,
+      "productName": "Mehmet",
+      "quantityPerUnit": "48-6 oz jars",
+      "unitPrice": "23",
+      "unitInStock": 53
+    },
+    {
+      "id": 5,
+      "categoryId": 6,
+      "productName": "Ali",
+      "quantityPerUnit": "48-6 oz jars",
+      "unitPrice": "23",
+      "unitInStock": 53
+    },
+    {
+      "id": 6,
+      "categoryId": 7,
+      "productName": "Veli",
+      "quantityPerUnit": "48-6 oz jars",
+      "unitPrice": "23",
+      "unitInStock": 53
+    },
+    {
+      "id": 7,
+      "categoryId": 8,
+      "productName": "Osman",
+      "quantityPerUnit": "48-6 oz jars",
+      "unitPrice": "23",
+      "unitInStock": 53
+    },
+    {
+      "id": 8,
+      "categoryId": 8,
+      "productName": "Ziya",
+      "quantityPerUnit": "48-6 oz jars",
+      "unitPrice": "23",
+      "unitInStock": 53
+    },
+    {
+      "id": 9,
+      "categoryId": 7,
+      "productName": "Halil",
+      "quantityPerUnit": "48-6 oz jars",
+      "unitPrice": "23",
+      "unitInStock": 53
+    },
+    {
+      "id": 10,
+      "categoryId": 6,
+      "productName": "Oktay",
+      "quantityPerUnit": "48-6 oz jars",
+      "unitPrice": "23",
+      "unitInStock": 53
+    },
+    {
+      "id": 11,
+      "categoryId": 5,
+      "productName": "Halil",
+      "quantityPerUnit": "48-6 oz jars",
+      "unitPrice": "23",
+      "unitInStock": 53
+    },
+    {
+      "id": 12,
+      "categoryId": 4,
+      "productName": "Halil",
+      "quantityPerUnit": "48-6 oz jars",
+      "unitPrice": "23",
+      "unitInStock": 53
+    },
+    {
+      "id": 13,
+      "categoryId": 3,
+      "productName": "Halil",
+      "quantityPerUnit": "48-6 oz jars",
+      "unitPrice": "23",
+      "unitInStock": 53
+    },
+    {
+      "id": 14,
+      "categoryId": 2,
+      "productName": "Halil",
+      "quantityPerUnit": "48-6 oz jars",
+      "unitPrice": "23",
+      "unitInStock": 53
+    },
+    {
+      "id": 15,
+      "categoryId": 1,
+      "productName": "Halil",
+      "quantityPerUnit": "48-6 oz jars",
+      "unitPrice": "23",
+      "unitInStock": 53
+    },
+    {
+      "id": 16,
+      "categoryId": 8,
+      "productName": "Halil",
+      "quantityPerUnit": "48-6 oz jars",
+      "unitPrice": "23",
+      "unitInStock": 53
+    },
+    {
+      "id": 17,
+      "categoryId": 5,
+      "productName": "Halil",
+      "quantityPerUnit": "48-6 oz jars",
+      "unitPrice": "23",
+      "unitInStock": 53
+    },
+    {
+      "id": 18,
+      "categoryId": 3,
+      "productName": "Halil",
+      "quantityPerUnit": "48-6 oz jars",
+      "unitPrice": "23",
+      "unitInStock": 53
+    },
+    {
+      "id": 19,
+      "categoryId": 4,
+      "productName": "Halil",
+      "quantityPerUnit": "48-6 oz jars",
+      "unitPrice": "23",
+      "unitInStock": 53
+    },
+    {
+      "id": 20,
+      "categoryId": 6,
+      "productName": "Halil",
+      "quantityPerUnit": "48-6 oz jars",
+      "unitPrice": "23",
+      "unitInStock": 53
+    },
+    {
+      "id": 21,
+      "categoryId": 7,
+      "productName": "Halil",
+      "quantityPerUnit": "48-6 oz jars",
+      "unitPrice": "23",
+      "unitInStock": 53
+    },
+    {
+      "id": 22,
+      "categoryId": 1,
+      "productName": "Halil",
+      "quantityPerUnit": "48-6 oz jars",
+      "unitPrice": "23",
+      "unitInStock": 53
+    },
+    {
+      "id": 23,
+      "categoryId": 3,
+      "productName": "Halil",
+      "quantityPerUnit": "48-6 oz jars",
+      "unitPrice": "23",
+      "unitInStock": 53
+    },
+    {
+      "id": 24,
+      "categoryId": 2,
+      "productName": "Halil",
+      "quantityPerUnit": "48-6 oz jars",
+      "unitPrice": "23",
+      "unitInStock": 53
+    },
+    {
+      "id": 25,
+      "categoryId": 2,
+      "productName": "Halil",
+      "quantityPerUnit": "48-6 oz jars",
+      "unitPrice": "23",
+      "unitInStock": 53
+    },
+    {
+      "id": 26,
+      "categoryId": 4,
+      "productName": "Halil",
+      "quantityPerUnit": "48-6 oz jars",
+      "unitPrice": "23",
+      "unitInStock": 53
+    }
+  ],
+
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Beverages",
+      "seoUrl": "beverages"
+    },
+    {
+      "id": 2,
+      "categoryName": "Condiments",
+      "seoUrl": "condiments"
+    },
+    {
+      "id": 3,
+      "categoryName": "Confections",
+      "seoUrl": "confections"
+    },
+    {
+      "id": 4,
+      "categoryName": "Dairy Products",
+      "seoUrl": "dairyproducts"
+    },
+    {
+      "id": 5,
+      "categoryName": "Grains",
+      "seoUrl": "grains"
+    },
+    {
+      "id": 6,
+      "categoryName": "Meat",
+      "seoUrl": "meat"
+    },
+    {
+      "id": 7,
+      "categoryName": "Produce",
+      "seoUrl": "produce"
+    },
+    {
+      "id": 8,
+      "categoryName": "Seafood",
+      "seoUrl": "seafood"
+    }
+  ]
+}
